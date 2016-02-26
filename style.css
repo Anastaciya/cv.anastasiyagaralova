@@ -1,0 +1,68 @@
+body{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align: center;
+}
+h3{
+    background: gainsboro;
+
+}
+.left70>ul{
+    margin:0;
+    padding:0;
+}
+.left70>li{
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+#container{
+    margin:0 auto;
+    padding:10px;
+    width: 960px;
+
+}
+#photo img{
+    width:340px;
+    height:255px;
+    float:left;
+    margin:0 10px 10px 0;
+}
+#contact,#contact-left,#contact-right{
+    float:left;
+}
+#contact{
+    padding:10px;
+}
+#contact-left{
+    text-align: right;
+}
+#contact-right{
+    text-align: left;
+    margin-left:20px;
+}
+#bloc{
+    clear:both;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.left45{
+    width:45%;
+    padding:0 10px;
+}
+.left30{
+    width:30%;
+}
+.left70{
+    width:70%;
+}
+.left100{
+    width:100%;
+}
